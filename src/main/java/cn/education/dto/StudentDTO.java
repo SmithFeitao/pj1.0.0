@@ -4,6 +4,7 @@ public class StudentDTO {
 	private String stdId;
 	private String stdName;
 	private Integer age;
+	private Double score;
 
 	public String getStdId() {
 		return stdId;
